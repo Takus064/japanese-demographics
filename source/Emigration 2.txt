@@ -1,0 +1,63 @@
+Los Angeles, United States: 68,595
+Bangkok, Thailand: 57,486
+Shanghai, China: 41,756
+New York City, United States: 40,496
+Singapore: 36,797
+Sydney, Australia: 34,679
+Greater London, United Kingdom: 34,125
+Vancouver, Canada: 27,962
+Hong Kong, 24,205
+Honolulu, United States: 21,329
+Melbourne, Australia: 20,175
+San Francisco, United States: 19,997
+San Jose, United States: 16,008
+Seoul, South Korea: 14,920
+Toronto, Canada: 14,160
+Kuala Lumpur, Malaysia: 13,502
+Paris, France: 13,152
+Taipei, Taiwan: 12,581
+Chicago, United States: 12,147
+Ho Chi Minh City, Vietnam: 11,927
+Seattle, United States: 11,355
+São Paulo, Brazil: 11,295
+Düsseldorf, Germany: 10,247
+Lima, Peru: 9,813
+Auckland, New Zealand: 9,648
+Busan, South Korea: 9,416
+Moscow, Russia: 9,155
+Hanoi, Vietnam: 8,922
+Mexico City, Mexico: 8,537
+Mumbai, India: 8,139
+Manila, Philippines: 7,804
+Buenos Aires, Argentina: 7,623
+Yangon, Myanmar: 6,513
+Montreal, Canada: 6,224
+Rio de Janeiro, Brazil: 5,842
+Berlin, Germany: 5,193
+Johannesburg, South Africa: 4,573
+Edinburgh, United Kingdom: 4,362
+Brisbane, Australia: 4,208
+Boston, United States: 4,176
+Frankfurt, Germany: 3,487
+Dubai, United Arab Emirates: 3,380
+Tashkent, Uzbekistan: 3,274
+Zürich, Switzerland: 3,087
+Atlanta, United States: 2,941
+Phnom Penh, Cambodia: 2,896
+Munich, Germany: 2,638
+Amsterdam, Netherlands: 2,415
+Bogotá, Colombia: 2,394
+Budapest, Hungary: 2,338
+Istanbul, Turkey: 2,287
+Vienna, Austria: 2,193
+Milan, Italy: 2,097
+Barcelona, Spain: 2,042
+Dublin, Ireland: 1,934
+Houston, United States: 1,906
+Helsinki, Finland: 1,863
+Cairo, Egypt: 1,822
+Warsaw, Poland: 1,785
+Madrid, Spain: 1,712
+Prague, Czech Republic: 1,607
+Hamburg, Germany: 1,587
+Stockholm, Sweden: 1,523
